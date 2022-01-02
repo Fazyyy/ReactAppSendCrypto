@@ -2,4 +2,4 @@
 
 # Cryptothingy
 
-A React.js application integrating with Metamsk to provide a method through which to send crpyto payments and provide a log of recent transactions.
+A React.js application integrating with Metamask to provide a method through which to send crypto payments and provide a log of recent transactions.
